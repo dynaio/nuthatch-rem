@@ -1,0 +1,3 @@
+EARTH_RADIUS_M = 6371000.0
+MAX_DEPTH      = 4
+ERROR_TOL      = 1e-3

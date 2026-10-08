@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Outputs we don't want in the repo (derived from the GLB)
+output/textures/
+output/face_*.png
+output/preview_*.png
+
+# Scratch
+*.log
+*.bak
+*.tmp
